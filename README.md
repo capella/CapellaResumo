@@ -1,6 +1,6 @@
 # CapellaResumo
 ### História
-O capellaresumo.com surgiu em 27 outubro de 2012. Ele foi criado inicialmente para compartilhar resumos escolares entre colegas de sala. Nessa época eram somente páginas html editadas a mão. Depois de um tempo o site passou a utilizar Joomla, mas por uma falta de segurança foi invadido e ficou um pouco instável. Depois de um tempo, seu criador resolveu fazer o seu próprio código do site, o qual permanece até hoje.
+O capellaresumo.com surgiu em 27 outubro de 2009. Ele foi criado inicialmente para compartilhar resumos escolares entre colegas de sala. Nessa época eram somente páginas html editadas a mão. Depois de um tempo o site passou a utilizar Joomla, mas por uma falta de segurança foi invadido e ficou um pouco instável. Depois de um tempo, seu criador resolveu fazer o seu próprio código do site, o qual permanece até hoje.
 No entanto ele reconhece que há diversas falhas e existem funcões básicas que deveriam estar funcionando mas não estão. Por isso, nesse ano ele decidiu abrir o projeto para colaboração estar.
 
 ### A ideia 
